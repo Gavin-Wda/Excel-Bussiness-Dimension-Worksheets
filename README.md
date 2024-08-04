@@ -1,10 +1,8 @@
 # Business Excel Worksheets
 
-Machine Learning Project Designed to Predict Hair Loss in an Individual
-
 Overview 
 
-As 
+This collection of worksheets pretain to a fictitious company to showcase my excel work. Each one covers a facet of a business, employing different methods, techniques, and formulas. The details of each worksheet can be found below, along with the methods and functions utilized.
 
 Sales Dashboard
 
